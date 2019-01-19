@@ -1,6 +1,6 @@
-# final_project
+# Technolas Moods simple example
 
-A new Flutter project.
+A project to serve as an example of the **Fluter: A revolution in the mobile cross-platform development**
 
 ## Getting Started
 
